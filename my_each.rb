@@ -4,3 +4,4 @@ def my_each(array)
   puts i
   i+= 1 
 end
+end
