@@ -1,8 +1,8 @@
 def my_each(array)
-  i = 1
-  while i < array.length 
-  i
-  i+= 1 
+  word = 1
+  while word < array.length 
+  word
+  word+= 1 
 yield 
 my each
 end
